@@ -1,3 +1,11 @@
+# Introduction
+Welcome to this repository. This is a fork of the [original museum guide](https://github.com/DouLiu95/HHAI2022_Virtual_Museum_Guide). In this project we aim to improve the conversational agent's question answering performance. In the next section we provide our tools and methods. The original documentation is found thereafter. 
+
+# Methods
+## DistilBert
+DistilBert is a reduced version of the Transformer model BERT. We use DistilBert as backbone model for question answering. 
+
+=====================
 # HHAI2022 Knowledge Graph Driven Virtual Museum Guide 
 This project aims to use Dialogflow CX to build a knowledge graph driven virtual museum guide. 
 You can try it on a web game demo. Or if you are interested, test it on your own machine is possible.
