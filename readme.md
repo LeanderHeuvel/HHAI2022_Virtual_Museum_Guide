@@ -5,7 +5,8 @@ Welcome to this repository. This is a fork of the [original museum guide](https:
 ## DistilBert
 DistilBert is a reduced version of the Transformer model BERT. We use DistilBert as backbone model for question answering. 
 
-=====================
+Original Documentation
+======
 # HHAI2022 Knowledge Graph Driven Virtual Museum Guide 
 This project aims to use Dialogflow CX to build a knowledge graph driven virtual museum guide. 
 You can try it on a web game demo. Or if you are interested, test it on your own machine is possible.
